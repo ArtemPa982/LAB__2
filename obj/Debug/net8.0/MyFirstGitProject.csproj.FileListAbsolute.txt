@@ -1,0 +1,15 @@
+D:\Git\my_project\MyFirstGitProject\bin\Debug\net8.0\MyFirstGitProject.exe
+D:\Git\my_project\MyFirstGitProject\bin\Debug\net8.0\MyFirstGitProject.deps.json
+D:\Git\my_project\MyFirstGitProject\bin\Debug\net8.0\MyFirstGitProject.runtimeconfig.json
+D:\Git\my_project\MyFirstGitProject\bin\Debug\net8.0\MyFirstGitProject.dll
+D:\Git\my_project\MyFirstGitProject\bin\Debug\net8.0\MyFirstGitProject.pdb
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\MyFirstGitProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\MyFirstGitProject.AssemblyInfoInputs.cache
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\MyFirstGitProject.AssemblyInfo.cs
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\MyFirstGitProject.csproj.CoreCompileInputs.cache
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\MyFirstGitProject.sourcelink.json
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\MyFirstGitProject.dll
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\refint\MyFirstGitProject.dll
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\MyFirstGitProject.pdb
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\MyFirstGitProject.genruntimeconfig.cache
+D:\Git\my_project\MyFirstGitProject\obj\Debug\net8.0\ref\MyFirstGitProject.dll
